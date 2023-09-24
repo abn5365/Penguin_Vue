@@ -5,8 +5,8 @@
   <div class="card">
     <img alt="real estate logo" src="./housepic.jpg">
     <div class="card-content"> 
-      <h2>Two Pod Realty</h2> 
-      <p id="description">Real Estate Company Focused on delivering the best properties in the State College Area</p> 
+      <h2>Club Penguin</h2> 
+      <p id="description">This penguin is in a really cool club.</p> 
       <button class="details-button" id="detailsBtn">Details</button>
     </div> 
   </div> 
