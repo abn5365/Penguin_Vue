@@ -1,6 +1,6 @@
 <template>
-  <!----<img alt="Vue logo" src="./assets/logo.png">-->
-  <HelloWorld msg="HELLO WORLD"/>
+   <!----<img alt="Vue logo" src="https://toppng.com/uploads/preview/club-penguin-old-penguin-11550188540ypyeuqw1as.png">-->  
+  <HelloWorld msg="This is a penguin"/>
 
 </template>
 
