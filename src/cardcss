@@ -3,14 +3,19 @@
   max-width: 400px;
   margin: 0 auto;
   border: 1px solid #0C0B0B;
-  background-Color: #0C0B0B;
+  background-Color: red;
   padding: 16px;
   display: flex;
   flex-direction: column;
   text-align: center;
   
 }
-
+button {
+text-transform: uppercase;
+  color: white;
+  paddling: 16px 16px;
+  background-color: blue;
+}
 .card img {
     max-width: 100%;
     height: auto;
